@@ -1,0 +1,21 @@
+
+#environments
+
+.env
+.venv
+env/
+venv/
+env.bak/
+venv.bak/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
